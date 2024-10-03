@@ -108,13 +108,13 @@ The application uses **BLoC** for managing state transitions.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/flutter-discounted-food-items.git
+   git clone https://github.com/YoussefWilliam/food_list_clean_arch.git
     ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd flutter-discounted-food-items
+   cd food_list_clean_arch
     ```
 
 3. Get dependencies:
